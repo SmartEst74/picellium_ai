@@ -1,7 +1,5 @@
 # Picellium AI: Democratizing AI through Visual Novelty
 
-![Picellium AI Logo](dev/nanochat.png)
-
 ## The Vision
 I believe that we should democratize AI to the next level and provide a way for everyone to see AI work in visually novel ways. While AI is often seen as a "black box," Picellium AI aims to show AI working like organisms and insects—specifically leaf-cutter ants. I believe this organic, visual approach will make AI interesting and educational for all ages.
 
@@ -19,7 +17,7 @@ Picellium AI is currently in its early stages, growing from the foundational wor
 ## About the Developer
 I am a Senior Architect and web pioneer with a history of building high-impact systems:
 
-- **AI & Horticulture:** Most recently, I was a Senior Architect at **Fargro**, where I built a team of AI and horticulture experts. We successfully helped **Thanet Earth** increase yields in controlled environments from 6% to 27%.
+- **AI & Horticulture:** Most recently, I was a Senior Architect at **Fargro**, where I built a team of AI and horticulture experts. We focused on helping growers like **Thanet Earth** increase yields in controlled environments from 6% to 27%.
 - **Enterprise Infrastructure:** I led the team that hosted the largest SharePoint implementation in Europe for the **Financial Ombudsman**.
 - **Web & Music Industry Pioneer:** In the late 90s, I was the sole developer for **Sony Music Studios**, **Sony Music Classical**, **Wu Tang Clan**, **Reef**, **Fused**, and **Toploader**. During this era, I was known for pushing the boundaries of what was possible with pure JavaScript, proving that Flash extensions were not needed for rich experiences.
 
